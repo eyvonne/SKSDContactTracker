@@ -6,6 +6,7 @@ This tool was built to facilitate contact tracing within the custodial team. It 
 
 | Dates  | Name 1   | Name 2   | Name 3   | Name 4   |
 |--------|----------|----------|----------|----------|
+| Shifts | Shift | Shift | Shift | Shift |
 | Date 1 | Location | Location | Location | Location |
 | Date 2 | Location | Location | Location | Location |
 | Date 3 | Location | Location | Location | Location |
